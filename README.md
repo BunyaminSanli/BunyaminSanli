@@ -2,7 +2,7 @@
 
 <div align="center">
     
- <img height=150 src="https://github-readme-stats.vercel.app/api?username=BunyaminSanli&show_icons=true&theme=radical"/>
+ <img height=150 src="https://github-readme-stats.vercel.app/api?username=BunyaminSanli&show_icons=true&theme=synthwave"/>
  <img width=30/>
  <img height=150  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyaminSanli&layout=compact">
   </div>
